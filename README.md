@@ -23,7 +23,7 @@ Currently:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shsarvagya19/Shsarvagya19/main/assets/hero.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/Shsarvagya19/Shsarvagya19/main/assets/Working%20Iron%20Man%20GIF.gif" width="260"/>
 
 </div>
 
